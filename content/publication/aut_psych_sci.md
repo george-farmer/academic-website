@@ -5,6 +5,7 @@ authors = ["Farmer, G.D.","Baron-Cohen S.","Skylark, W.J."]
 publication = "Psychological Science"
 date = 2017-05-01
 featured = true
+publication_types = ["2"]
 
 url_pdf = "pdf/Farmer2017PsychSci.pdf"
 

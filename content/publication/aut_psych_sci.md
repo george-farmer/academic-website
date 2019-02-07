@@ -1,8 +1,8 @@
 +++
 
-title = "People With Autism Spectrum Conditions Make More Consistent Decisions"
-authors = ["Farmer, G.D.,","Skylark, W.J.,"]
+title = "People with autism spectrum conditions make more consistent decisions"
+authors = ["Farmer, G.D.","Baron-Cohen S.","Skylark, W.J."]
 publication = "Psychological Science"
-date = 2017-01-01
-
+date = 2017-05-01
+selected = true
 +++

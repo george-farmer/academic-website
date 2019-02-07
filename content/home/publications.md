@@ -35,4 +35,3 @@ publication_type = "-1"
 exclude_featured = false
 +++
 
-[All publications](/publication)

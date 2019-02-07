@@ -6,7 +6,7 @@ widget = "publications_featured"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Featured Publications"
-subtitle = ""
+subtitle = [All publications](/publication)
 
 # Order that this section will appear in.
 weight = 10
@@ -16,7 +16,7 @@ weight = 10
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view = 3
+view = 2
 
 # Filter by publication type.
 # -1: Any

@@ -30,4 +30,4 @@ view = 2
 publication_type = "-1"
 +++
 
-[All publications](/publication)
+

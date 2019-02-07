@@ -6,6 +6,8 @@ publication = "Psychological Review"
 date = 2016-05-01
 featured = true
 
+publication_types = ["2"]
+
 url_pdf = "pdf/Howes2016PsychRev.pdf"
 url_custom = [{name = "Open Access",url = "https://psycnet.apa.org/fulltext/2016-30868-002.html"}]
 

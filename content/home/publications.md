@@ -11,7 +11,7 @@ subtitle = ""
 weight = 20
 
 # Number of publications to list.
-count = 10
+count = 0
 
 # View.
 #   1 = List
@@ -35,3 +35,4 @@ publication_type = "-1"
 exclude_featured = false
 +++
 
+[All publications](/publication)

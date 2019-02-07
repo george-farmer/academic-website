@@ -1,6 +1,6 @@
 +++
 
-title = "Dividing Attention Between Tasks: Testing Whether Explicit Payoff Functions Elicit Optimal Dual‐Task Performance"
+title = "Dividing attention between tasks: testing whether explicit payoff functions elicit optimal dual‐task performance"
 authors = ["Farmer, G.D.","Janssen, C.P.","Nguyen, A.T.","Brumby, D.P."]
 publication = "Cognitive Science"
 date = 2018-01-01

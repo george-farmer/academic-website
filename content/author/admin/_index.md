@@ -75,4 +75,4 @@ interests = [
 
 +++
 
-I'm a research fellow at the University of Manchester where I work on the psychology of decision-making. I am currently applying [computational rationality](/posts) to understand how decision-making is affected in autism.  
+I'm a research fellow at the University of Manchester where I work on the psychology of decision-making. I am currently applying [computational rationality](/#posts) to understand how decision-making is affected in autism.  

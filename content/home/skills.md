@@ -20,7 +20,6 @@ weight = 7
   icon_pack = "fab"
   name = "R"
   
-  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
@@ -30,10 +29,10 @@ weight = 7
   icon = "eye"
   icon_pack = "fas"
   name = "Eye-tracking"
-  
+
 [[feature]]
   icon = "desktop"
-  icon_pack = "fas"
-  name = "HCI"
+  icon_pack = "fab"
+  name = "HCI"  
 
 +++

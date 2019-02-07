@@ -19,18 +19,16 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "python"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Python"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "eye"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Eye-tracking"
 
 +++

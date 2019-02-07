@@ -1,7 +1,7 @@
 +++
 
 title = "The attraction effect in motor planning decisions"
-authors = ["Farmer, G.D.", U.","El-Deredy, W.","Howes, A.","Warren, P.A."]
+authors = ["Farmer, G.D.","El-Deredy, W.","Howes, A.","Warren, P.A."]
 publication = "Judgment and Decision Making"
 date = 2015-01-01
 featured = false

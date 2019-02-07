@@ -1,5 +1,5 @@
 +++
-title = "Rationality: research shows we’re not as stupid as we have been led to believe"
+title = "Computational Rationality: Why we’re not as stupid as we have been led to believe"
 authors = ["George Farmer","Paul Warren"]
 date = 2019-01-19
 
@@ -19,7 +19,7 @@ Computational rationality
 
 Although our decision making falls short of the standards required by logic and mathematics, there is still a role for rationality in understanding human cognition. The [psychologist Gerd Gigerenzer](https://www.mpib-berlin.mpg.de/de/forschung/adaptives-verhalten-und-kognition/publikationen/buecher/simple-heuristics) has shown that while many of the heuristics we use may not be perfect, they are both useful and efficient.
 
-But a recent approach called [computational rationality](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12086) goes a step further, borrowing an idea from artificial intelligence. It suggests that a system with limited abilities can still take an _optimal_ course of action. The question becomes “What is the best outcome I can achieve with the tools I have?”, as opposed to “What is the best outcome that could be achieved without any constraints at all?” For humans, this means taking things like memory, capacity, attention and noisy sensory systems into account.
+But a recent approach called [computational rationality](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12086) goes a step further, borrowing an idea from artificial intelligence. It suggests that a system with limited abilities can still take an _optimal_ course of action. The question becomes “What is the best outcome I can achieve with the tools I have?”, as opposed to “What is the best outcome that could be achieved without any constraints at all?” For humans, this means taking things like memory capacity, attention and noisy sensory systems into account.
 
 Computational rationality is leading to some elegant and surprising explanations of our biases and errors. One early success consistent with this approach was to examine the mathematics of random sequences like coin tosses, but under the assumption that the observer has a limited memory capacity and could only ever see sequences of finite length. A highly counterintuitive [mathematical result](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0015241) reveals that, under these conditions, the observer will have to wait longer for some sequences to arise than others – even with a perfectly fair coin.
 
@@ -38,11 +38,11 @@ The perception that we are irrational is one unfortunate side effect of the ever
 
 Checker shadow illusion. Edward H. Adelson/wikipedia, [CC BY-SA](http://creativecommons.org/licenses/by-sa/4.0/)
 
-This way of thinking about decision making is more akin to how vision scientists think about visual illusions. Take a look at the picture on the right. The fact that the A and B squares appear to be different shades (they aren’t – see the video below) doesn’t mean that your visual system is faulty, rather that it is making a sensible inference given the context.
+This way of thinking about decision making is more akin to how vision scientists think about visual illusions. Take a look at the picture on the right. The fact that the A and B squares appear to be different shades (they aren’t) doesn’t mean that your visual system is faulty, rather that it is making a sensible inference given the context.
 
 Computational rationality leads to a deeper understanding because it goes beyond descriptions of how we fail. Instead, it shows us how the brain marshals its resources to solve problems. One benefit of this approach is the ability to test theories of what our abilities and constraints are.
 
-For example, we have recently shown that people with autism [are less prone](https://journals.sagepub.com/doi/full/10.1177/0956797617694867) to some [decision-making biases](https://theconversation.com/people-with-autism-make-more-logical-decisions-66946). So we are now exploring whether altered levels of [neural noise](https://en.wikipedia.org/wiki/Neuronal_noise) (electrical fluctuations in networks of brain cells), a feature autism, could cause this.
+For example, we have recently shown that people with autism [are less prone](https://journals.sagepub.com/doi/full/10.1177/0956797617694867) to some [decision-making biases](https://theconversation.com/people-with-autism-make-more-logical-decisions-66946). So we are now exploring whether altered levels of [neural noise](https://en.wikipedia.org/wiki/Neuronal_noise) (electrical fluctuations in networks of brain cells), a feature of autism, could cause this.
 
 With more insight into the strategies the brain uses, we might be able to tailor information in a way that helps people. We have tested what people learn from observing a long random sequence. Those that viewed a sequence divided into short chunks (as we typically would in everyday life) did not benefit at all, but those that viewed the same sequence divided into much longer chunks rapidly [improved in their ability to recognise randomness](http://psycnet.apa.org/record/2016-62338-004).
 

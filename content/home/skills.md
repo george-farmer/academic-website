@@ -31,7 +31,7 @@ weight = 7
   name = "Eye-tracking"
 
 [[feature]]
-  icon = "desktop"
+  icon = "fa-desktop"
   icon_pack = "fas"
   name = "HCI"  
 

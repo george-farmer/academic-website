@@ -5,8 +5,7 @@ authors = ["George Farmer","Paul Warren"]
 +++
 
 
-Rationality: research shows we’re not as stupid as we have been led to believe
-==============================================================================
+
 
 ![File 20190116 163259 1d6qhi0.jpg?ixlib=rb 1.1](https://images.theconversation.com/files/254068/original/file-20190116-163259-1d6qhi0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
 

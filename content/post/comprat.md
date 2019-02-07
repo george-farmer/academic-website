@@ -1,6 +1,7 @@
 +++
 title = "Rationality: research shows we’re not as stupid as we have been led to believe"
 authors = ["George Farmer","Paul Warren"]
+date = 2019-01-19
 
 +++
 

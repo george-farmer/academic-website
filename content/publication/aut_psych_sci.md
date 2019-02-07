@@ -6,6 +6,5 @@ publication = "Psychological Science"
 date = 2017-05-01
 featured = true
 url_pdf = "pdf/Farmer2017PsychSci.pdf"
-url_source = "https://journals.sagepub.com/doi/full/10.1177/0956797617694867"
-
+url_custom = [{name = "Open Access", url = "https://journals.sagepub.com/doi/full/10.1177/0956797617694867"}]
 +++

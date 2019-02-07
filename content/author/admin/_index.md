@@ -6,7 +6,7 @@ name = "George Farmer"
 superuser = true
 
 # Role/position
-role = "Research Fellow"
+role = "Dean's Prize Research Fellow"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -80,4 +80,4 @@ interests = [
 
 I'm an independent research fellow at the University of Manchester where I work mainly on the psychology of decision-making. I am currently investigating how decision-making is affected by autism and other neurodevelopmental conditions. In particular I am interested in applying [computational rationality](/#posts) to this area. 
 
-Decision-making research can have very practical applications, such has how to convey information to people in a way they can make best use of it. I am a visiting researcher at the [Winton Centre for Risk & Evidence Communication]() at the University of Cambridge where I collaborate on projects to help improve the communication of risk, whether it's in deciding between cancer treatments or how statistics are reported in the media.  
+I am also a visiting researcher at the [Winton Centre for Risk & Evidence Communication](https://wintoncentre.maths.cam.ac.uk) at the University of Cambridge where I collaborate on various projects to help improve the communication of risk, whether it's in deciding between cancer treatments or how statistics are reported in the media.  

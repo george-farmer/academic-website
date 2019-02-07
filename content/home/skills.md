@@ -32,7 +32,7 @@ weight = 7
 
 [[feature]]
   icon = "desktop"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "HCI"  
 
 +++

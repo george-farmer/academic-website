@@ -19,7 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Fellow"
+  title = "Dean's Prize Research Fellow"
   company = "University of Manchester"
   company_url = "https://www.manchester.ac.uk"
   location = "Manchester"
@@ -32,8 +32,18 @@ date_format = "January 2006"
   company = "University of Cambridge"
   company_url = "https://www.cam.ac.uk"
   location = "Cambridge"
+  date_start = "2016-11-01"
+  date_end = "2018-04-01"
+  description = "Winton Centre for Risk & Evidence Communication"
+
+[[experience]]
+  title = "Research Associate"
+  company = "University of Cambridge"
+  company_url = "https://www.cam.ac.uk"
+  location = "Cambridge"
   date_start = "2015-07-01"
   date_end = "2018-04-01"
-  description = ""
+  description = "Department of Psychology"
+
 
 +++

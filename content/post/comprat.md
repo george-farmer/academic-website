@@ -6,14 +6,6 @@ date = 2019-01-19
 +++
 
 
-
-
-![File 20190116 163259 1d6qhi0.jpg?ixlib=rb 1.1](https://images.theconversation.com/files/254068/original/file-20190116-163259-1d6qhi0.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip)
-
-Heads or tails? Dean Drobot/Shutterstock
-
-[George Farmer](https://theconversation.com/profiles/george-farmer-230278), _[University of Manchester](http://theconversation.com/institutions/university-of-manchester-1204)_ and [Paul Warren](https://theconversation.com/profiles/paul-warren-536134), _[University of Manchester](http://theconversation.com/institutions/university-of-manchester-1204)_
-
 Suppose you toss a coin and get four heads in a row – what do you think will come up on the fifth toss? Many of us have a gut feeling that a tails is due. This feeling, called the [Gambler’s Fallacy](https://www.psychologytoday.com/gb/blog/the-gravity-weight/201706/the-gamblers-fallacy-in-research), can be seen in action [at the roulette wheel](https://theconversation.com/can-maths-help-you-win-at-roulette-69440). A long run of blacks leads to a flurry of bets on red. In fact, no matter what has gone before, red and black are always equally likely.
 
 The example is one of many thought to demonstrate the fallibility of the human mind. Decades of psychological research have emphasised the biases and errors in human decision making. But a new approach is challenging this view – showing that people are much smarter than they’ve been led to believe. According to this research, the Gambler’s Fallacy might [not be as irrational as it seems](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fa0015241).

@@ -1,3 +1,10 @@
++++
+title = "Rationality: research shows we’re not as stupid as we have been led to believe"
+authors = ["George Farmer","Paul Warren"]
+
++++
+
+
 Rationality: research shows we’re not as stupid as we have been led to believe
 ==============================================================================
 

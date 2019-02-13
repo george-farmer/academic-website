@@ -78,6 +78,6 @@ interests = [
 
 +++
 
-I'm an independent research fellow at the University of Manchester where I work mainly on the psychology of decision-making. I am currently investigating how decision-making is affected by autism and other neurodevelopmental conditions. In particular I am interested in applying [computational rationality](/#posts) to this area. 
+I'm an independent research fellow at the University of Manchester where I work on the psychology of decision-making. I am currently investigating how decision-making is affected by autism and other neurodevelopmental conditions. In particular I am interested in applying [computational rationality](/#posts) to this area. 
 
 I am also a visiting researcher at the [Winton Centre for Risk & Evidence Communication](https://wintoncentre.maths.cam.ac.uk) at the University of Cambridge where I collaborate on various projects to help improve the communication of risk, whether it's in deciding between cancer treatments or how statistics are reported in the media.  

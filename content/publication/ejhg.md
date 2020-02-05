@@ -5,7 +5,7 @@
 title = "Recommendations for designing genetic test reports to be understood by patients and non-specialists"
 authors = ["Farmer G.D.","Gray H.","Chandratillake G.","Raymond F.L","Freeman A.L.J"]
 publication = "European Journal of Human Genetics"
-date = 2020/02/05
+date = 2020-02-05
 featured = true
 
 publication_types = ["2"]

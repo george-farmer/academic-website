@@ -2,7 +2,7 @@
 
 +++
 
-title = "Preference and inference in intertemporal choice" authors = ["Skylark W.J.","Farmer G.D.","Bahemia N."] publication = "Judgment and Decision Making" date = 2021-03-31 featured = false
+title = "Inference and preference in intertemporal choice" authors = ["Skylark W.J.","Farmer G.D.","Bahemia N."] publication = "Judgment and Decision Making" date = 2021-03-31 featured = false
 
 publication_types = ["2"]
 
